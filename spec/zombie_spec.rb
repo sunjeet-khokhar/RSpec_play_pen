@@ -8,9 +8,9 @@ require "zombie"
 describe Zombie do
   
 	#your examples (tests) do here
-   it "is named Ash" do
+   it "is named Ashley" do
    my_zombie = Zombie.new
    #write your test's assertion/expectation
-   my_zombie.name.should == 'Ash'
+   my_zombie.name.should == 'Ashley'
 	end
 end
