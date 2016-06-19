@@ -1,9 +1,13 @@
 require "spec_helper"
 require "zombie"
 
-#declare the zombie class
+#declare the zombie spec
 describe Zombie do 
 	#your examples (tests) do here
-   it "is named Night Walker Big poppy"	
+
+   
 end
+
+
+
 
