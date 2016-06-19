@@ -6,16 +6,11 @@ require "zombie"
 
 #declare the class for which you want to write spec for
 describe Zombie do
-
-	  
+  
 	#your examples (tests) do here
-   it "is named Bhayankar maut"
+   it "is named Ash" do
    my_zombie = Zombie.new
    #write your test's assertion/expectation
-   my_zombie.name.should == "Bhayankar maut"	
-
-   it "is killed by fire balls"
-
-   it "is mind controlled by Bran"
+   my_zombie.name.should == 'Ash'
+	end
 end
-

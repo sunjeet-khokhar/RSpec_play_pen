@@ -2,7 +2,12 @@ class Zombie
 	attr_accessor :name
 
 	def initialize
-		@name = Bhayankar maut'
+
+		@name = "Ash"
 	end
 
+	def on_fire
+		return "Explode!"
+	end
+	
 end
