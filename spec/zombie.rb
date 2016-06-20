@@ -3,7 +3,7 @@ class Zombie
 
 	def initialize
 
-		@name = "Ashley"
+		@name = "Ashleyddjkdj"
 	end
 
 	def on_fire
